@@ -94,9 +94,6 @@ fun ChangeIconViews(activity: Activity, enabledPkgName: String, disabledPkgName:
             )
         }) {
             Text(text = "切换成Test 2")
-            Text(text = "切换成Test 2")
-            Text(text = "切换成Test 2")
-            Text(text = "切换成Test 2")
         }
     }
 }
